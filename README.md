@@ -56,4 +56,4 @@ We welcome contributions! Please feel free to submit a Pull Request.
 Make sure to format your code using `npm run lint` and `cargo fmt`.
 
 ## 📄 License
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [Apache License 2.0](LICENSE).
