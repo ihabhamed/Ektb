@@ -1,6 +1,8 @@
 # Ektb - Your AI-powered voice-to-text typing assistant
 
-![Ektb Logo](./ektb_logo.png)
+<p align="center">
+  <img src="./public/logo.png" alt="Ektb Logo" width="200"/>
+</p>
 
 Ektb is a modern, open-source software application built with **Rust (Tauri)** and **Next.js**. It leverages advanced AI models for voice-to-text, providing a seamless writing and dictation experience for users globally.
 
